@@ -6,7 +6,7 @@
 
 We provide our PyTorch implementation of Hand-Object Interaction Image Generation.
 In this work, we are dedicated to a new task, i.e., hand-object interaction image generation, which aims to conditionally generate the hand-object image under the given hand, object and their interaction status.
-This task is challenging and research-worthy in many potential application scenarios, such as VR / AR games and online shopping, etc.
+This task is challenging and research-worthy in many potential application scenarios, such as AR/VR games and online shopping, etc.
 To address this problem, we propose a novel HOGAN framework, which utilizes the expressive model-aware hand-object representation and leverages its inherent topology to build the unified surface space.
 Extensive experiments on two large-scale datasets, i.e., HO3Dv3 and DexYCB, demonstrate the effectiveness and superiority of our framework both quantitatively and qualitatively.
 
