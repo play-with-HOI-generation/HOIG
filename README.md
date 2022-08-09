@@ -56,4 +56,4 @@ bash scripts/eval_hov3.sh
 The test results will be stored at `./results`.
 
 ### Acknowledge
-We thank [pytorch-fid]() for FID computation, [PerceptualSimilarity]() for LPIPS computation.
+We thank [pytorch-fid](https://github.com/mseitzer/pytorch-fid.git) for FID computation, [PerceptualSimilarity](https://github.com/richzhang/PerceptualSimilarity.git) for LPIPS computation.
