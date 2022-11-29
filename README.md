@@ -1,6 +1,6 @@
 # Hand-Object Interaction Image Generation
 
-<img height='400' src ="assets/teaser.png"/>
+<img height='300' src ="assets/teaser.png"/>
 
 > [**Hand-Object Interaction Image Generation**](https://arxiv.org/abs/2211.15663)<br>
 > [Hezhen Hu](https://dblp.org/pid/273/3660.html), [Weilun Wang](https://scholar.google.com/citations?hl=zh-CN&user=YfV4aCQAAAAJ), [Wengang Zhou](https://scholar.google.com/citations?hl=zh-CN&user=8s1JF8YAAAAJ), [Houqiang Li](https://scholar.google.com/citations?hl=zh-CN&user=7sFMIKoAAAAJ)<br>University of Science and Technology of China
