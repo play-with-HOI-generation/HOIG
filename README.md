@@ -1,5 +1,7 @@
 # Hand-Object Interaction Image Generation
 
+> [**Hand-Object Interaction Image Generation**](https://arxiv.org/abs/2211.15663)<br>
+> [Hezhen Hu](https://dblp.org/pid/273/3660.html), [Weilun Wang](https://scholar.google.com/citations?hl=zh-CN&user=YfV4aCQAAAAJ), [Wengang Zhou](https://scholar.google.com/citations?hl=zh-CN&user=8s1JF8YAAAAJ), [Houqiang Li](https://scholar.google.com/citations?hl=zh-CN&user=7sFMIKoAAAAJ)<br>University of Science and Technology of China
 
 ![](assets/framework.png)
 
@@ -55,5 +57,19 @@ bash scripts/eval_hov3.sh
 
 The test results will be stored at `./results`.
 
+
+
+### Citation
+If you find Hand-Object Interaction Image Generation useful for your work please cite:
+```
+@inproceedings{hu2022hand,
+  author    = {Hu, Hezhen and Wang, Weilun and Zhou, Wengang and Li, Houqiang},
+  title     = {Hand-Object Interaction Image Generation},
+  booktitle = {NeurIPS},
+  year      = {2022},
+}
+```
+
 ### Acknowledge
 We thank [pytorch-fid](https://github.com/mseitzer/pytorch-fid.git) for FID computation, [PerceptualSimilarity](https://github.com/richzhang/PerceptualSimilarity.git) for LPIPS computation.
+
