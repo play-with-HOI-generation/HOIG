@@ -1,4 +1,4 @@
-# Hand-Object Interaction Image Generation
+# Hand-Object Interaction Image Generation (NeurIPS 2022 Spotlight)
 
 <img height='250' src ="assets/teaser.png"/>
 
